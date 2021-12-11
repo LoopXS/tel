@@ -28,5 +28,23 @@ https://github.com/HACKGM/Hack-Telegram/archive/refs/heads/main.zip
 اگه آموزش ترموکس رو بلد نیستید ابتدا از لینک زیر آموزش رو مطالعه کنید:
 <a href="https://telegra.ph/%D8%AF%D9%88%D8%B1%D9%87-%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%B1%D9%85%D9%88%DA%A9%D8%B3-11-21" >آموزش ترموکس</a>
 <br>
+<br>
+ابتدا وارد ترموکس بشید و با دستور زیر اسکریپت رو دانلود کنید:
+<br><pre>
+git clone https://github.com/HACKGM/Hack-Telegram
+</pre>
+سپس با دستور زیر وارد پوشه اسکریپت بشید:
+<br><pre>
+cd Hack-Telegram
+</pre>
+<div>
+وقتی در پوشه هستید لوکال هاست رو اجرا کنید با کد زیر:
+<pre>
+php -S 127.0.0.1:3000
+</pre>
+سپس صفحه ای جدید باز کنید با دستور زیر پورت فرواردینگ اجرا کنید:
+<pre>
+ssh -R 80:127.0.0.1:3000 nokey@localhost.run
+</pre>
 
 
