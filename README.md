@@ -1,4 +1,4 @@
-# Hack-Telegram
+# Hack Telegram
 <h2>
 آموزش هک تلگرام با ارسال لینک
 </h2>
