@@ -65,4 +65,7 @@ ssh -R 80:127.0.0.1:3000 nokey@localhost.run
 <img src="pic2.png">
 <br>
 جهت خرید نسخه vip و اطلاعات بیشتر به آیدی زیر مراجعه کنید:
-T.me/Anony_muos
+
+<a href="https://t.me/Anony_muos" >T.me/Anony_muos</a>
+<br>
+
